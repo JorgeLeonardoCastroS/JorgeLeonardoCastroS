@@ -1,5 +1,8 @@
 ## Hi there 👋 I´m Leonardo
 
+QA Engineer & Legal Expert | Especialista en Análisis de Procesos y Testing
+QA Engineer y Especialista jurídico experto en Análisis de requisitos, diseño de pruebas y casos de pruebas. Me destaco como Buscador y Seguimiento de Bugs, con dominio en Pruebas de UI y Tester de APIs usando Postman, gestionando el ciclo de vida en Jira y Figma. Soy Líder en documentación de pruebas, aportando una mentalidad analítica y pensamiento lógico para garantizar la calidad total del software.
+
 **JorgeLeonardoCastroS/JorgeLeonardoCastroS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
