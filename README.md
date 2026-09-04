@@ -1,3 +1,5 @@
+<img width="2048" height="512" alt="Gemini_Generated_Image_p0oddxp0oddxp0od" src="https://github.com/user-attachments/assets/573bd144-1ace-4455-a325-e3f87758ec58" />
+
 ## Hi there 👋 I´m Leonardo
 
 QA Engineer & Legal Expert | Especialista en Análisis de Procesos y Testing
