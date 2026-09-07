@@ -55,6 +55,7 @@ Pruebas de aplicaciones móviles en una app | Bootcamp Tripleten (2026)
 <img width="1502" height="794" alt="image" src="https://github.com/user-attachments/assets/4e42c90c-7888-491a-8deb-9753c3bdcd0d" />
 <img width="1182" height="624" alt="image" src="https://github.com/user-attachments/assets/af3b7fcf-2daa-4a9e-9d4d-43927fed438b" />
 <img width="1661" height="713" alt="image" src="https://github.com/user-attachments/assets/454e8d09-f608-41d3-a635-34dd63839bf6" />
+link del proyecto: https://docs.google.com/spreadsheets/d/1E-i89E5WQJcPMDyH1eCDPE6ALmv8bU6H/edit?usp=sharing&ouid=117662769631159222767&rtpof=true&sd=true
 
 Pruebas Funcionales para una App de Red Social de Viajes | Bootcamp Tripleten (2026)
 •	Descripción: Ejecución de pruebas funcionales en una aplicación de transporte en línea, validando el flujo de usuario, detección de errores y reporte de incidencias para garantizar una experiencia sin errores.
