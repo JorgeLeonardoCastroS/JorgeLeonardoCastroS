@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 •	Hallazgos: Se identificaron bugs en el diseño de la app y dentro de las funcionalidades, dentro de los campos a diligenciar y a escoger.
 •	Resultado: se realizaron más de 50 casos de prueba, se hicieron más de 50 reportes dentro de jira, se generaron listas de comprobación y casos de prueba, lo que ayudo para poder sacar una versión completa y sin incidencias al público.
 <img width="1344" height="723" alt="image" src="https://github.com/user-attachments/assets/11665eb1-9c72-4cae-9021-e30af5eac770" />
+<img width="1442" height="693" alt="image" src="https://github.com/user-attachments/assets/ca28df3a-2546-4b91-9aeb-d0c44c88b2a4" />
+<img width="1401" height="674" alt="image" src="https://github.com/user-attachments/assets/1bc6330a-3236-4f67-a99e-8f002230789c" />
 
 Pruebas Funcionales para una App de Transporte | Bootcamp Tripleten (2026)
 •	•	Descripción: Ejecución de pruebas funcionales en una aplicación de compras en línea, validación de pruebas de regresión, validación de APIs y Endpoints usando Postman, detección de errores y reporte de incidencias para garantizar una experiencia sin errores.
@@ -39,7 +41,7 @@ Pruebas Funcionales para una App de Transporte | Bootcamp Tripleten (2026)
 •	Herramientas como JIRA y Postman.
 •	Hallazgos: Se identificaron bugs en el diseño de la app y dentro de las funcionalidades, dentro de los campos a diligenciar y a escoger.
 •	Resultado: se realizaron más de 50 casos de prueba, se hicieron más de 50 reportes dentro de jira, se generaron listas de comprobación y casos de prueba, lo que ayudo para poder sacar una versión completa y sin incidencias al público.
-
+<img width="1308" height="771" alt="image" src="https://github.com/user-attachments/assets/fe32f93b-e1a1-4057-9444-7720c73a7634" />
 <img width="1350" height="642" alt="image" src="https://github.com/user-attachments/assets/65eb9560-3fd0-4ca6-9b3b-1f055ed3145b" />
 
 Pruebas de aplicaciones móviles en una app | Bootcamp Tripleten (2026)
@@ -50,6 +52,9 @@ Pruebas de aplicaciones móviles en una app | Bootcamp Tripleten (2026)
 •	Hallazgos: Se identificaron bugs en el diseño de la app y dentro de las funcionalidades, dentro de los campos a diligenciar y a escoger.
 •	Resultado: se realizaron más de 50 casos de prueba, se hicieron más de 50 reportes dentro de jira, se realizaron listas de comprobación, casos de prueba, se aprendió a hacer uso de las herramientas de prueba, lo que ayudo para poder sacar una versión completa y sin incidencias al público.
 <img width="501" height="872" alt="image" src="https://github.com/user-attachments/assets/6eadb8bc-1ecc-4a34-90c2-031f60b96587" />
+<img width="1502" height="794" alt="image" src="https://github.com/user-attachments/assets/4e42c90c-7888-491a-8deb-9753c3bdcd0d" />
+<img width="1182" height="624" alt="image" src="https://github.com/user-attachments/assets/af3b7fcf-2daa-4a9e-9d4d-43927fed438b" />
+<img width="1661" height="713" alt="image" src="https://github.com/user-attachments/assets/454e8d09-f608-41d3-a635-34dd63839bf6" />
 
 Pruebas Funcionales para una App de Red Social de Viajes | Bootcamp Tripleten (2026)
 •	Descripción: Ejecución de pruebas funcionales en una aplicación de transporte en línea, validando el flujo de usuario, detección de errores y reporte de incidencias para garantizar una experiencia sin errores.
