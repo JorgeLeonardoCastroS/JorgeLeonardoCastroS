@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img width="633" height="678" alt="image" src="https://github.com/user-attachments/assets/36d86b7c-561b-4893-9739-7aa84ce7a8da" />
 <img width="750" height="758" alt="image" src="https://github.com/user-attachments/assets/d8333f8f-e4fa-44a7-9214-d2aa900db68d" />
 <img width="778" height="731" alt="image" src="https://github.com/user-attachments/assets/40af8faf-ced0-4572-82a7-1d9faee0b546" />
+Link del proyecto: https://docs.google.com/document/d/1UJamzI5ltx3QeYSgMkHLeHhfiTFIBqWp/edit?usp=sharing&ouid=117662769631159222767&rtpof=true&sd=true
 
 - Pruebas Funcionales para una App de Compras | Bootcamp Tripleten (2026)
 •	Descripción: Ejecución de pruebas funcionales en una aplicación de compras en línea, validación de pruebas de regresión, validación de APIs y Endpoints usando Postman, detección de errores y reporte de incidencias para garantizar una experiencia sin errores.
