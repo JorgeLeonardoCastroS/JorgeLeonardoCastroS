@@ -9,6 +9,20 @@ QA Engineer y Especialista jurídico experto en Análisis de requisitos, diseño
 Here are some ideas to get you started:
 
 - 🔭 I’was currently worked on
+- Pruebas de aplicación de transporte mediante la verificación de tablas de datos | Bootcamp Tripleten (2026)
+•	Descripción: verificación de bases de datos mediante la terminal para comprobar las tablas que se encuentran dentro de la base de datos, para obtener los datos necesarios para verificación de las mismas.
+•	Objetivo: Realizar uso de SQL mediante la terminal para realizar las consultas en las tablas de las bases de datos.
+•	Habilidades destacadas: Uso de SQL para la revisión de las bases de datos.
+•	Herramientas: SQL, Terminal de Cywin64.
+•	Hallazgos: Se realizaron las consultas y se generaron tablas de relación conforme con las diferentes tablas que se encontraban en la base de datos.
+•	Resultado: Se realizo la verificación de la base de datos, se manejaron más de 5 tablas y se encontraron los datos requeridos para el proyecto, se aprendieron los comandos necesarios para poder revisar las bases de datos y hacer uso de las herramientas
+<img width="725" height="154" alt="image" src="https://github.com/user-attachments/assets/028c2659-5df0-4319-af23-14220edc093e" />
+-<img width="735" height="806" alt="image" src="https://github.com/user-attachments/assets/e3effb18-3221-46c0-bfe1-0246ec87d9f1" />
+<img width="519" height="798" alt="image" src="https://github.com/user-attachments/assets/a497c904-1562-4f0e-9f4b-bcd526a8b612" />
+<img width="633" height="678" alt="image" src="https://github.com/user-attachments/assets/36d86b7c-561b-4893-9739-7aa84ce7a8da" />
+<img width="750" height="758" alt="image" src="https://github.com/user-attachments/assets/d8333f8f-e4fa-44a7-9214-d2aa900db68d" />
+<img width="778" height="731" alt="image" src="https://github.com/user-attachments/assets/40af8faf-ced0-4572-82a7-1d9faee0b546" />
+
 - Pruebas Funcionales para una App de Compras | Bootcamp Tripleten (2026)
 •	Descripción: Ejecución de pruebas funcionales en una aplicación de compras en línea, validación de pruebas de regresión, validación de APIs y Endpoints usando Postman, detección de errores y reporte de incidencias para garantizar una experiencia sin errores.
 •	Habilidades destacadas: Pruebas de APIs, UI Testing de APIs, informes de errores de APIs, documentación de casos de prueba, herramientas como JIRA y Postman.
